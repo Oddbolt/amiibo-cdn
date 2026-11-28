@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T08:12:51.000Z",
+  "items": [
+    {
+      "id": "n-2026-11-28-9wnb5o",
+      "kind": "announcement",
+      "title": "Welcome to Amiibo Companion App!",
+      "source": "Amiibo Companion",
+      "url": null,
+      "publishedAt": "2026-11-28T08:12:14.732Z",
+      "body": "To get started working on your collection go to Discover, if you want to track all your amiibos go to Stats!\n\nHave fun!",
+      "pinned": true
+    },
+    {
+      "id": "a-d4436a167f62",
+      "kind": "article",
+      "title": "ICYMI: Here's Another Look At The Zelda: Ocarina Of Time amiibo For Switch 2",
+      "source": "Nintendo Life",
+      "url": "https://www.nintendolife.com/news/2026/11/icymi-heres-another-look-at-the-zelda-ocarina-of-time-amiibo-for-switch-2",
+      "publishedAt": "2026-11-24T05:35:00.000Z",
+      "body": null,
+      "pinned": false
+    }
+  ]
+}
